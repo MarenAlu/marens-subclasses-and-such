@@ -1,0 +1,5 @@
+2026/08/31-10:44:29.086 2ccc Recovering log #52
+2026/08/31-10:44:29.086 2ccc Level-0 table #54: started
+2026/08/31-10:44:29.090 2ccc Level-0 table #54: 9535 bytes OK
+2026/08/31-10:44:29.100 2ccc Delete type=0 #52
+2026/08/31-10:44:29.100 2ccc Delete type=3 #50
